@@ -1,0 +1,4 @@
+Transaction Date,Payment Ref,Payer Name,Open ID,Product Name,Insurance Company,Policy Number,Coverage Period,Currency,Charge Amount,Promotion Type,Service Type,Status
+02/01/2024 00:00,"	402406191670921358;fe136832e95a4ad2a5059dfa5300aeed",TEOW CHIN OH,5ba72f86-afe3-47e9-88f5-bffec269533a,Critical Illness: Pay Per Trip,NTUC Income,GC52958184125,02/01/2024 to 27/12/2024,SGD,"	0.10",None,Transport,PAID
+02/01/2024 00:00,"	402406191852340342;8f689ffd8c934114ab167e14db7894cf",David Sanal,a2169d8b-ab34-4400-a3ef-793108be1ae7,Critical Illness: Pay Per Trip,NTUC Income,GC52213669162,02/01/2024 to 27/12/2024,SGD,"	0.30",None,Transport,PAID
+02/01/2024 00:00,"	402406191852802453;3ef4fd8619a34d8badc5d82be35312ed",Heng Shen  Bryan,ec8cb370-2e3a-4261-88cc-ee56dd9be95f,Critical Illness: Pay Per Trip,NTUC Income,GC52116973412,02/01/2024 to 27/12/2024,SGD,"	0.30",None,Transport,PAID
