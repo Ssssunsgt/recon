@@ -1,0 +1,2 @@
+trackNum,orderId,transitLevel,pickUpDate,tier,source,transitId,goodsCode,currency,shopId,userId,orderValue,thirdPartyLogistics,insuredAmount,promoCode
+UATtrackNum20240318001,UATorderId20240318001,1,2024-03-18 10:00:00,BASIC,Pickupp,UATtransitId20240318001,LOGISTICS,SGD,20240318001,20240318001,18,Tmall,18,
