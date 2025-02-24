@@ -1,0 +1,5 @@
+Transaction Date, Payment Ref, Payer Name, Open ID, Product Name, Insurance Company, Policy Number, Coverage Period, Currency, Charge Amount, Promotion Type, Status
+2025-03-04 00:00:00, 40200000000000, TEST Arjun, 521234, ProductName, Insurance Company, GC52531958971, 04/03/2025 to 12/10/2025, SGD, 0.30, none, PAID
+2025-03-01 00:00:00, 40200000000000, TEST Arjun, 521234, ProductName, Insurance Company, GC52112593142, 01/03/2025 to 12/01/2026, SGD, 0.30, Free Policy, PAID
+2025-03-01 00:00:00, 40200000000000, TEST Arjun, 521234, ProductName, Insurance Company, GC52517623277, 01/03/2025 to 12/01/2026, SGD, 0.10, Free Policy, PAID
+2025-03-01 00:00:00, 40200000000000, TEST Arjun, 521234, ProductName, Insurance Company, GC52587152879, 01/03/2025 to 12/01/2026, SGD, 0.10, none, PAID
